@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
+![MasterHead]([https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif](https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif))
 <h1 align="center">Hi 👋, I'm Bahri Uranlı</h1>
 <h2 align="center">I'm a Student, Developer, and Designer!!</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>

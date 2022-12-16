@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+![MasterHead](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)
 <h1 align="center">Hi 👋, I'm Bahri Uranlı</h1>
 <h2 align="center">I'm a Student, Developer, and Designer!!</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>

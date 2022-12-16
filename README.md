@@ -6,15 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahri-uranli&label=Profile%20views&color=0e75b6&style=flat" alt="bahri-uranli" /> </p>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d47e04c038eb6328e95ea5e2d80441a807285eb7&rid=giphy.gif&ct=g" alt="Coding" width="400">
 
-- 🔭 I’m currently working on **Jiblo**
+- 🔭 I’m currently working on **Open-Souce Projects**
 
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **PHP, MySql, Html, Css, JS and Python**
 
-- 📫 How to reach me **bahri.resmi@gmail.com**
-
-- ⚡ Fun fact **I like skateboarding**
+- 📫 How to reach me **bahri.official@protonmail.com**
  
 
 
@@ -22,8 +20,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/16439582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16439582" height="30" width="40" /></a>
 <a href="https://instagram.com/bahri.urnll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahri.urnl" height="30" width="40" /></a>
-<a href="https://dribbble.com/bahri_urnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bahri_urnl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bahri_urnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bahri_urnl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

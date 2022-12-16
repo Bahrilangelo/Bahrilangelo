@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PHP, MySql, Html, Css, JS and Python**
 
-- 📫 How to reach me **bahri.resmi@gmail.com**
+- 📫 How to reach me **bahri.official@protonmail.com**
 
 - ⚡ Fun fact **I like skateboarding**
  

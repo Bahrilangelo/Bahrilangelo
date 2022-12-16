@@ -3,7 +3,7 @@
 <h2 align="center">I'm a Student, Developer, and Designer!!</h2>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
+<p align="left"> <img source="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"/></p>
 
 - 🔭 I’m currently working on **Open-Souce Projects**
 
